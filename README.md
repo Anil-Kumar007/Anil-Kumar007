@@ -1,15 +1,15 @@
 ![logo](https://github.com/Anil-Kumar007/Anil-Kumar007/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
-<h3 align="center">A passionate QA Engineer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anil-kumar007&label=Profile%20views&color=0e75b6&style=flat" alt="anil-kumar007" /> </p>
 
 - 🔭 I’m currently working on [Parking-Cost-Calculator Project](https://github.com/Anil-Kumar007/Parking-Cost-Calculator)
 
-- 🌱 I’m currently learning **Java and Automation Testing**
+- 🌱 I’m currently learning **Data Analysis using Python, SQL, Excel, Power BI and Tablue, Mathematics and Statistics, ML, AWS**
 
-- 💬 Ask me about **Manual Testing, Test Case Designing, Bug Reporting, MySQL, Agile Methodology**
+- 💬 Ask me about **Collecting and Cleaning Data, Analyze the data and Visulaise the data using Visualization tools called PowerBI or Tableu**
 
 - 📫 How to reach me **anil.kumarofficial95@yahoo.com**
 
