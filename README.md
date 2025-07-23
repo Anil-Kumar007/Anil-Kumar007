@@ -1,4 +1,4 @@
-![logo](https://thedatalicious.com/wp-content/uploads/2024/09/Data-Analytical.png)
+![logo](https://4achieversedublogs.wordpress.com/wp-content/uploads/2025/07/data-analytics.jpg?w=1024)
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
