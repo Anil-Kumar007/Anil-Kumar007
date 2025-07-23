@@ -1,4 +1,4 @@
-![logo](https://platform3solutions.com/wp-content/uploads/2024/02/Archived-data-for-analytics-1536x768.webp)
+![logo](https://t3.ftcdn.net/jpg/07/11/26/60/240_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
