@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D4E16AQE3bsd-NQKG8Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1701709043327?e=1756339200&v=beta&t=UOYWt7xe9hmrIhuThGgAMTXcELKKjlNIl4ID55zrJ0c)
+![logo](https://thedatalicious.com/wp-content/uploads/2024/09/Data-Analytical.png)
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
