@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/v2/D4D16AQEsm4SvH0Xqjw/profile-displaybackgroundimage-shrink_350_1400/B4DZg.DYdFHYAc-/0/1753387731426?e=1756339200&v=beta&t=oHwMSKkKrtshgkk2ImUAyoTgXOmqUeNfpCdhzNRKowU)
-<h1 align="center">Hi 👋, I'm Anil Kumar</h1>
-<h3 align="center">Data Analyst</h3>
+<h1 align="center">Hello 👋, Data Geeks </h1>
+<h3 align="center">Anil Kumar - Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anil-kumar007&label=Profile%20views&color=0e75b6&style=flat" alt="anil-kumar007" /> </p>
 
